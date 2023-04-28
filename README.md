@@ -1,6 +1,6 @@
 
 # About me
-Heading the Translational Immunology & Leukemia group at the GIGA-I3:Hematology lab of the University of Liege in Belgium, I am an enthusiastic researcher in immunology, oncology, and bioinformatics. My primary focus is on studying immunity against acute myeloid leukemia (AML) to develop new immunotherapies that combat this type of blood cancer. In this regard, I am particularly interested in exploring MHC-I epitopes presented by AML cells. Additionally, I am committed to designing novel bioinformatic tools to analyze the immunopeptidome.
+Heading the Translational Immunology & Leukemia group at the GIGA-I3: Hematology lab of the University of Liege in Belgium, I am an enthusiastic researcher in immunology, oncology, and bioinformatics. My primary focus is on studying immunity against acute myeloid leukemia (AML) to develop new immunotherapies that combat this type of blood cancer. In this regard, I am particularly interested in exploring MHC-I epitopes presented by AML cells. Additionally, I am committed to designing novel bioinformatic tools to analyze the immunopeptidome.
 
 # My research work
 [Atypical acute myeloid leukemia-specific transcripts generate shared and immunogenic MHC class-I-associated epitopes](https://www.sciencedirect.com/science/article/pii/S107476132100087X?via%3Dihub)  
